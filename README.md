@@ -51,7 +51,7 @@ ii. Click "Upload"
 
 iii. Click "Add files"
 
-iv. Navigate to where you html file is on your local machine, click the file, and click open
+iv. Navigate to where your html file is on your local machine, click the file, and click open
 
 v. Scroll down and click upload
 
